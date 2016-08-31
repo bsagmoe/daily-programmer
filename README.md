@@ -1,2 +1,2 @@
 # daily-programmer
-My solutions to problem's posted on the subreddit r/dailyprogrammer
+My solutions to problems posted on the subreddit r/dailyprogrammer
